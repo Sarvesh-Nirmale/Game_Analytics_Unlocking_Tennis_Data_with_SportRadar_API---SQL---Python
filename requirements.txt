@@ -1,0 +1,12 @@
+"""
+requirements.txt
+================
+Python dependencies for the Tennis Sportradar Analytics project.
+"""
+
+streamlit>=1.30
+pandas>=2.0
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+requests>=2.31
+plotly>=5.18
